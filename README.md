@@ -1,5 +1,5 @@
 ### Hi there👋
-- 😄 Pronouns: she/her
+- ⚡ Back-end girl
 <div>
   <a href="https://github.com/anapaulaghix">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulaghix&layout=compact&langs_count=7&theme=dark"/>
