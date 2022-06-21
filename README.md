@@ -11,7 +11,15 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/9pd4bNE.png%22%3E.png"
 </div>
+  
+  ##
+  
+  
+ <div>
+   <a href="https://www.linkedin.com/in/ana-paula-ghiraldelli-668224217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
 <!--
 **anapaulaghix/anapaulaghix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
