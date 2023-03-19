@@ -2,7 +2,7 @@
 - <img align="center" src="https://icons.iconarchive.com/icons/mattahan/ultrabuuf/48/TV-Kitty-icon.png" width="32" height="32"> Web Developer Full-Stack
 - <img align="center" src="https://icons.iconarchive.com/icons/mattahan/ultrabuuf/48/TV-Kitty-icon.png" width="32" height="32"> I’m currently working on React JS
 - <img align="center" src="https://icons.iconarchive.com/icons/mattahan/ultrabuuf/48/TV-Kitty-icon.png" width="32" height="32"> Pronouns: She/Her
-<div>
+ <div>
   <a href="https://github.com/anapaulaghix">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulaghix&layout=compact&langs_count=7&theme=dark"/>
 </div>
