@@ -1,7 +1,7 @@
 ### Hi there, I'm Ana paula👋
-- ⚡ Web Developer Full-Stack
-- 🔭 I’m currently working on React JS
-- 😄 Pronouns: She/Her
+- <img align="center" src="https://icons.iconarchive.com/icons/mattahan/ultrabuuf/48/TV-Kitty-icon.png" width="32" height="32"> Web Developer Full-Stack
+- <img align="center" src="https://icons.iconarchive.com/icons/mattahan/ultrabuuf/48/TV-Kitty-icon.png" width="32" height="32"> I’m currently working on React JS
+- <img align="center" src="https://icons.iconarchive.com/icons/mattahan/ultrabuuf/48/TV-Kitty-icon.png" width="32" height="32"> Pronouns: She/Her
 <div>
   <a href="https://github.com/anapaulaghix">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulaghix&layout=compact&langs_count=7&theme=dark"/>
@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/9pd4bNE.png%22%3E.png"
+  <img align="right" alt="Rafa-pic" height="200" width="200" style="border-radius:50px;" src="https://media2.giphy.com/media/kZqbBT64ECtjy/giphy.gif"
 </div>
   
   ##
