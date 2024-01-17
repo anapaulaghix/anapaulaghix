@@ -1,11 +1,9 @@
 ### Hi there, I'm Ana paula👋
-- Passionate about creating efficient and user-centered software solutions, learn to program games and solve complex challenges. I am a technical level teacher and teach basic programming for students, but I look for my first opportunity in the world of programming and I hope to thrive in dynamic environments where innovation is the main strategy.
+🔹 Passionate about creating efficient and user-centered software solutions, learn to program games and solve complex challenges. I am a technical level teacher and teach basic programming for students, but I look for my first opportunity in the world of programming and I hope to thrive in dynamic environments where innovation is the main strategy.
 
 💡 Proficient of programming languages including JavaScript, C and C#
 
 🌐 Full stack development with expertise in front-end (HTML, CSS, React) and back-end (Node.js, Express, Next.js)
-
-- <img align="center" src="https://icons.iconarchive.com/icons/mattahan/ultrabuuf/48/TV-Kitty-icon.png" width="32" height="32"> Pronouns: She/Her
  <div>
   <a href="https://github.com/anapaulaghix">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulaghix&layout=compact&langs_count=7&theme=dark"/>
