@@ -1,11 +1,11 @@
 ### Hi there, I'm Ana paula👋
 🔹 Passionate about creating efficient and user-centered software solutions, learn to program games in my associate Degree. I'm a development systems technician and Intern IT at Caterpillar Inc.
 
-💡 Proficient of programming languages including JavaScript, C and C#
+💡 Proficient of programming languages including JavaScript and C#
 
 🌐 Full stack development with expertise in front-end and back-end 
 
-⚡Now i'm learning about Angular with .NET core in Caterpillar IT Projects
+⚡ Now i'm learning about Angular with .NET core
 
  <div>
   <a href="https://github.com/anapaulaghix">
