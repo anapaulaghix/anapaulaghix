@@ -4,6 +4,9 @@
 💡 Proficient of programming languages including JavaScript, C and C#
 
 🌐 Full stack development with expertise in front-end (HTML, CSS, React) and back-end (Node.js, Express, Next.js)
+
+⚡Now i'm learning about Angular with .NET core in Caterpillar IT Projects
+
  <div>
   <a href="https://github.com/anapaulaghix">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulaghix&layout=compact&langs_count=7&theme=dark"/>
