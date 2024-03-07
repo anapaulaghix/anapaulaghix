@@ -1,5 +1,5 @@
 ### Hi there, I'm Ana paula👋
-🔹 Passionate about creating efficient and user-centered software solutions, learn to program games and solve complex challenges. I am a technical level teacher and teach basic programming for students, but I look for my first opportunity in the world of programming and I hope to thrive in dynamic environments where innovation is the main strategy.
+🔹 Passionate about creating efficient and user-centered software solutions, learn to program games in my associate Degree. I'm a development systems technician and Intern IT at Caterpillar Inc.
 
 💡 Proficient of programming languages including JavaScript, C and C#
 
