@@ -3,7 +3,7 @@
 
 💡 Proficient of programming languages including JavaScript, C and C#
 
-🌐 Full stack development with expertise in front-end (HTML, CSS, React) and back-end (Node.js, Express, Next.js)
+🌐 Full stack development with expertise in front-end and back-end 
 
 ⚡Now i'm learning about Angular with .NET core in Caterpillar IT Projects
 
