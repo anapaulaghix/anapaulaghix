@@ -1,5 +1,5 @@
 ### Hi there, I'm Ana paula👋
-🔹 Passionate about creating efficient and user-centered software solutions, learn to program games in my associate Degree. I'm a development systems technician and Intern IT at Caterpillar Inc.
+🔹 Passionate about creating efficient and user-centered software solutions, learn to program games in my associate Degree. I'm a development systems technician and Junior Developer at Caterpillar Inc.
 
 💡 Proficient of programming languages including TypeScript and C#
 
