@@ -1,46 +1,75 @@
-### Hi there, I'm Ana paula👋
-🔹 Passionate about creating efficient and user-centered software solutions, learn to program games in my associate Degree. I'm a development systems technician and Junior Developer at Caterpillar Inc.
+# Hi there, I'm Ana Paula 👋
 
-💡 Proficient of programming languages including TypeScript and C#
+💻 Mid-Level Software Developer focused on building scalable, efficient, and user-centered applications.
 
-🌐 Full stack development with expertise in front-end and back-end 
+🚀 Currently working with enterprise systems for Caterpillar Inc., developing and maintaining full stack solutions using Angular and .NET technologies.
 
-⚡ Now i'm learning about Angular with .NET core
+🎓 Graduated in Digital Games and currently pursuing a postgraduate degree in Software Architecture.
 
- <div>
-  <a href="https://github.com/anapaulaghix">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulaghix&layout=compact&langs_count=7&theme=dark"/>
+🧠 Passionate about software engineering, clean architecture, backend processing, and high-performance applications.
+
+⚙️ Experienced with:
+- ASP.NET Core & .NET 8
+- Angular 17 & TypeScript
+- Entity Framework Core
+- RabbitMQ & background workers
+- REST APIs
+- SQL Server & MySQL
+- Scalable enterprise applications
+- Full Stack Development
+
+🌱 Currently learning more about:
+- DevOps culture & CI/CD
+- Cloud architecture
+- Distributed systems
+- Software design patterns
+
+💡 I enjoy solving complex problems, improving system performance, and creating maintainable solutions that scale.
+
+## 🛠 Tech Stack
+
+<div style="display: inline_block">
+
+<p align="left"> 
+ <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+ <img alt="Angular" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+ <img alt=".NET" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /> 
+ <img alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+ <img alt="Microsoft" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+ <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
+ <img alt="RabbitMQ" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" /> 
+ <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+ <img alt="Azure" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+</p>
+
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> 
-  <img align="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg" /> 
-  <img align="center" alt="dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="right" alt="hellokitty" height="200" width="200" style="border-radius:50px;" src="https://media2.giphy.com/media/kZqbBT64ECtjy/giphy.gif">
- 
+
+## 📌 Featured Interests
+
+✨ Software Architecture  
+✨ Backend Engineering  
+✨ Enterprise Systems  
+✨ API Development  
+✨ Clean Code & Best Practices  
+✨ System Performance & Scalability  
+
+---
+
+## 📫 Contact Me
+
+<div>
+<a href="https://www.linkedin.com/in/ana-paula-ghiraldelli-668224217/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
 </div>
-  
-  ##
-  
-  
- <div>
-   <p>- 💬 Contact me</p>
-   <a href="https://www.linkedin.com/in/ana-paula-ghiraldelli-668224217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
-<!--
-**anapaulaghix/anapaulaghix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+while(alive)
+{
+    Learn();
+    Build();
+    Improve();
+}
+````
